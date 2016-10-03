@@ -17,11 +17,13 @@
 Msys2とCmderをインストールしておいてね  
 **Msys2 ➔ Cmder** の順番で入れてね  
 
-Msys2  
-http://msys2.github.io/  
+- Msys2  
+  http://msys2.github.io/  
 
-Cmder  
-http://cmder.net/  
+- Cmder  
+  http://cmder.net/  
+  Mini版でOKです  
+  展開したらCドライブ直下に置いてください  
 
 ### MacOS  
 
