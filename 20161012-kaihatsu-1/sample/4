@@ -1,0 +1,8 @@
+void setup() {
+  size( 400, 400 );
+  println( "awesome" );
+}
+
+void draw() {
+  background( 0 );
+}
